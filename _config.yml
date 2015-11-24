@@ -17,8 +17,8 @@ url: http://zhanggaga.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/me.jpg
-favicon: /public/img/me.jpg
+gavatar: /public/img/me.png
+favicon: /public/img/me.png
 
 # google analytics 设置
 ga:

@@ -17,8 +17,8 @@ url: http://zhanggaga.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/me.jpg
+favicon: /public/img/me.jpg
 
 # google analytics 设置
 ga:
@@ -27,7 +27,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: 张佳嘉
+  shortname: zhanggaga
 
 # 主题设置，自动激活某个标签
 active: 读书

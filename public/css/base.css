@@ -7,7 +7,7 @@ body, html {
   margin: 0px;
   height: 100%;
   overflow: hidden; 
-  background-color: #303030;
+  background-color: #c5c8c9;
 }
 .row {
   height: 100%;
@@ -19,13 +19,19 @@ body, html {
 /* 左侧导航栏 */
 .aside1 {
   /*background-color: #1f2c39;*/
-  background-color: #1abc9c;
+   background: #474d57;
+  /*border-right: 1px solid #3c4149;*/
+  box-shadow: inset -15px 0 15px -15px #222;
   /*background-image: url(/public/img/bg_grid.jpg);*/
+  /*width: 100px;*/
   height: 100%;
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
   /*box-shadow: inset -15px 0 20px -15px #77AEF4;*/
+}
+.nav nav-pills nav-stacked{
+  color: #a6a6a7;
 }
 .aside1 > .nav > li > a {
   padding-left: 0px;
@@ -38,20 +44,19 @@ body, html {
 }
 
 .aside1> .nav > li > a:hover {
-  color:#fff;
-  background-color: #16a085;
+ color: #fff;
+ background: #2c353d;
 }
 
 .aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
-  color: #fff;
+  color: #222;
   /*background-color: #fafaf6;*/
   /*background-image: url(/public/img/body_bg.jpg);*/
-  background-color: #303030;
+  background-color: #c5c8c9;
 }
 
 .avatar {
   width: 56px;
-  /*height: 90px;*/
   border: 0px solid #fff;
 }
 .aside1_bottom {
@@ -67,10 +72,10 @@ body, html {
 .aside2 {
   /*background-color: #fafaf6;*/
   /*background-image: url(/public/img/body_bg.jpg);*/
-
-  background-color: #303030;
+/*padding-left: 100px;*/
+  background-color: #c5c8c9;
   height: 100%;
-  border-right: 2px solid #303030;
+  border-right: 2px solid #d9d6cf;
   overflow-y: auto;
   font-color: #fff;
   margin-top: 40px;
@@ -92,14 +97,14 @@ body, html {
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;
-  color: #303030;
+  color: #a6a6a7;
 }
 .aside3-content {
 /*  padding-left: 40px;
   padding-right: 40px;
 */  
   padding: 0 5% 0 5%;
-  color: #656565;
+  color: #64717f;
   line-height: 1.42857143;
 }
 #content {
@@ -116,8 +121,8 @@ blockquote p {
   text-align: center;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-  color: #fff;
-  background-color: #303030;
+  color: #303030;
+  background-color: #c5c8c9;
 }
 /* 显示评论按钮 */
 .show-commend {

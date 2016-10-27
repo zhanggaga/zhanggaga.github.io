@@ -64,6 +64,7 @@ $ git push --tags                       #上传所有标签
 ### 资料链接
 1. [Try Git](https://try.github.io/levels/1/challenges/1)
 2. [Git教程——廖雪峰官网](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+3. [Git——简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 
 
